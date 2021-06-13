@@ -12,5 +12,5 @@ https://www.nature.com/articles/s41598-020-57897-9
   number={1},
   pages={1--13},
   year={2020},
-  publisher={Nature Publishing Group}
+  publisher={Nature Publishing Group},
 }</pre></details>
