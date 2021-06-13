@@ -1,6 +1,7 @@
-# machine_learning_for_climate
+# Predicting clustered weather patterns: A test case for applications of convolutional neural networks to spatio-temporal climate data
+
 A set of pre-processing codes, A deep convolutional neural net and post-processing codes for classifying turbulent climate patterns
-https://www.nature.com/articles/s41598-020-57897-9
+
 
 ## Citation
 - Chattopadhyay, A., Hassanzadeh, P. & Pasha, S. Predicting clustered weather patterns: A test case for applications of convolutional neural networks to spatio-temporal climate data. Sci Rep 10, 1317 (2020). ([url](https://doi.org/10.1038/s41598-020-57897-9))<details><summary>BibTeX</summary><pre>
