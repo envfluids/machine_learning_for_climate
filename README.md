@@ -1,6 +1,6 @@
 # machine_learning_for_climate
 A set of pre-processing codes, A deep convolutional neural net and post-processing codes for classifying turbulent climate patterns
-\url{https://www.nature.com/articles/s41598-020-57897-9}
+https://www.nature.com/articles/s41598-020-57897-9
 
 ## citation
 @article{chattopadhyay2020predicting,
